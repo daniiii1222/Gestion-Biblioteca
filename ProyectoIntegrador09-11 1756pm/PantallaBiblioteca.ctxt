@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PantallaBiblioteca
+comment1.params=
+comment1.target=void\ refrescarBiblioteca()
+comment10.params=panel
+comment10.target=void\ agregarMenuDesplegable(javax.swing.JPanel)
+comment2.params=p_socio\ p_modo
+comment2.target=void\ grabarSocio(Socio,\ boolean)
+comment3.params=p_dni
+comment3.target=void\ removerSocio(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ leerSocios()
+comment5.params=p_libro\ p_modo
+comment5.target=void\ grabarLibro(Libro,\ boolean)
+comment6.params=p_titulo
+comment6.target=void\ removerLibro(java.lang.String)
+comment7.params=
+comment7.target=java.util.ArrayList\ leerLibros()
+comment8.params=
+comment8.target=PantallaBiblioteca()
+comment9.params=grafico
+comment9.target=void\ paintComponent(java.awt.Graphics)
+numComments=11

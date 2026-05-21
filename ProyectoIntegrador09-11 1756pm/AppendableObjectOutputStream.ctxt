@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AppendableObjectOutputStream
+comment1.params=out
+comment1.target=AppendableObjectOutputStream(java.io.OutputStream)
+comment2.params=
+comment2.target=void\ writeStreamHeader()
+numComments=3
